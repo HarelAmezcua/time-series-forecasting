@@ -1,0 +1,9 @@
+{
+    "electric" : {
+        "main": "D:\\datasets\\ds\\TimeSeriesAnalysis\\electricityloaddiagrams20112014\\LD2011_2014.txt",
+        "batch": "D:\\datasets\\ds\\TimeSeriesAnalysis\\electricityloaddiagrams20112014\\electri_single_column.csv"
+    },
+    "favorita":{
+        "train_2013_01": "D:\\datasets\\ds\\TimeSeriesAnalysis\\favorita-grocery-sales-forecasting\\train_splitted\\2013_01.csv"
+    }
+}
